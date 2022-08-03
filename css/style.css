@@ -1,0 +1,77 @@
+body {
+    background-color: #202020;
+}
+
+#add {
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    position: relative;
+    top: -22px;
+    border-bottom-right-radius:10px;
+}
+
+
+
+
+
+.btn {
+    border: none;
+    color: black;
+    background-color: #ff5e62;
+    padding: 10px;
+    margin-left: 25px;
+    width: 60px;
+    cursor: pointer;
+
+
+
+}
+
+.btn2 {
+    border: none;
+    color: black;
+    background-color: #ff9966;
+    padding: 10px;
+    margin-left: 15px;
+    width: 60px;
+    cursor: pointer;
+
+}
+
+#numero1 {
+    padding: 9px;
+    outline: none;
+
+
+}
+
+#titulo {
+    width: 97.5%;
+    background: #ff9966;
+    background: -webkit-linear-gradient(to right, #ff5e62, #ff9966);
+    background: linear-gradient(to right, #ff5e62, #ff9966);
+    padding: 5px;
+    text-align: center;
+    border-top-left-radius:10px;
+
+
+
+
+}
+
+.all {
+    position: absolute;
+    width: 400px;
+    height: auto;
+    top: 200px;
+    left: calc(50% - 200px);
+    padding: 40px;
+
+}
+
+.linhas{
+    list-style: none;
+    border-top: #525252 1px solid;
+    padding: 10px;
+}
